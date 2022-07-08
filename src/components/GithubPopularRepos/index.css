@@ -1,0 +1,16 @@
+.gitHubContainer {
+  background-color: #ffffff;
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.Button_container {
+  display: flex;
+  justify-content: center;
+}
+.language_list {
+  display: flex;
+  height: 200px;
+  flex-wrap: wrap;
+}

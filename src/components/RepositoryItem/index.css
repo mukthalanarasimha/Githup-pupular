@@ -1,0 +1,30 @@
+.logo_image {
+  height: 100px;
+  width: 100px;
+}
+.item_list {
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.image_logo_symbol {
+  display: flex;
+}
+.name_item {
+  font-family: 'Roboto';
+  color: #e73959;
+  font-size: 10px;
+}
+.paragragh_name {
+  font-size: 5px;
+}
+.logo_start {
+  height: 20px;
+}
